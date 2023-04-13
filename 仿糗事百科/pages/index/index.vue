@@ -83,6 +83,8 @@
 	.index-list1>view:first-child {
 		display: flex;
 		align-items: center;
+		color: #999999;
+		font-size: 15px;
 	}
 	
 	.index-list1>view:first-child>image {
